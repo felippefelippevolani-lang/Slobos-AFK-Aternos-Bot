@@ -6,7 +6,7 @@
     "type": "ofe"flin
   },
   "server": {
-    "ip": "capelin.aternos.host",
+    "ip": "ServidorDosPrimos.aternos.me",
     "port":  25613,
     "version": "1.21.11",
     "try-creative": false
