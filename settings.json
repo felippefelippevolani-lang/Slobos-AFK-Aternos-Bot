@@ -8,9 +8,8 @@
   "server": {
     "ip": "ServidorDosPrimos.aternos.me",
     "port":  25613,
-    "version": ,"1.21.1",
-    "try-creative": false
-  },
+    "version": , "1.21.1",
+    "try-creative": false},
   "position": {
     "enabled": true,
     "x": 0,
