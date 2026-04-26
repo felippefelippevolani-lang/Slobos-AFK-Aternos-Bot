@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "ofe"flin
   },
   "server": {
     "ip": "capelin.aternos.host",
-    "port": 25613,
+    "port":  25613,
     "version": "1.21.11",
     "try-creative": false
   },
