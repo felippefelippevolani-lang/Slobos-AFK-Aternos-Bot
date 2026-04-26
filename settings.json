@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ServidorDosPrimos.aternos.me:25613",
+    "ip": "ServidorDosPrimos.aternos.me:",
     "port": 25613,
     "version": "1.21.11",
     "try-creative": false
