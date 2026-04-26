@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "capelin.aternos.host:",
+    "ip": "capelin.aternos.host",
     "port": 25613,
     "version": "1.21.11",
     "try-creative": false
